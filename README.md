@@ -1,7 +1,8 @@
-<a href="https://www.linkedin.com/in/igor-henrique-l-rozalem-a67560209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-[![Linkedin: Igor Rozalem]</br>
+### Feel free to contact me 
+
+<p align="left"> <a href="https://discord.com/users/IgorR#8220" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/igorhlr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/igorrozalem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/igor-henrique-l-rozalem-a67560209/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 [![Gmail Badge](https://img.shields.io/badge/-igorhlr3@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:igorhlr3@hotmail.com) </br>
-[![GitHub SEU NOME](https://img.shields.io/github/followers/igorhlr?label=follow&style=social)](https://github.com/igorhlr)
+
 
 <h3> :woman: &nbsp;About me... </h3>
 
