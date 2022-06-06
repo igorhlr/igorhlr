@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; 
 Exploring how microservices and technologies like python can automate api sub processes and plot graphs for decision making.
-- 💼 &nbsp; **Junior Software Engineer** at <a href="https://br.linkedin.com/company/union-solutions">Carzen</a>
+- 💼 &nbsp; **Junior Software Engineer** at <a href="https://br.linkedin.com/company/union-solutions">Union Solutions</a>
 
 <h3> :rocket: &nbsp;My skills </h3>
 
