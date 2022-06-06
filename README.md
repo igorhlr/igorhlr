@@ -1,5 +1,5 @@
 
-[![Linkedin: Igor Rozalem](https://img.shields.io/badge/-IgorRozalem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/igor-henrique-l-rozalem-a67560209)]([linkedin.com/in/igor-henrique-l-rozalem-a67560209](linkedin.com/in/igor-henrique-l-rozalem-a67560209))
+[![Linkedin: Igor Rozalem](https://img.shields.io/badge/-IgorRozalem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/igor-henrique-l-rozalem-a67560209)]([linkedin.com/in/igor-henrique-l-rozalem-a67560209])
 [![Gmail Badge](https://img.shields.io/badge/-igorhlr3@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:igorhlr3@hotmail.com)
 [![GitHub SEU NOME](https://img.shields.io/github/followers/igorhlr?label=follow&style=social)](https://github.com/igorhlr)
 
