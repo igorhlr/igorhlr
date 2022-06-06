@@ -6,9 +6,9 @@
 
 <h3> :woman: &nbsp;About me... </h3>
 
-- 🤔 &nbsp; Exploring new technologies and software solutions.
-- 💼 &nbsp; Working With **Junior Software Engineer** at <a href="https://br.linkedin.com/company/union-solutions">Carzen</a>
-- 🌱 &nbsp; learning more about **docker-microservices-devops-typescript-springboot**.
+- 🤔 &nbsp; 
+Exploring how microservices and technologies like python can automate api sub processes and plot graphs for decision making.
+- 💼 &nbsp; **Junior Software Engineer** at <a href="https://br.linkedin.com/company/union-solutions">Carzen</a>
 
 <h3> :rocket: &nbsp;My skills </h3>
 
