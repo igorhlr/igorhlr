@@ -7,7 +7,6 @@
 <h3> :woman: &nbsp;About me... </h3>
 
 - 🤔 &nbsp; Exploring new technologies and software solutions.
-- 🎓 &nbsp; **Software Engineer** at <a href="https://faesa.br">Faesa</a>.
 - 💼 &nbsp; Working With **Junior Software Engineer** at <a href="https://br.linkedin.com/company/union-solutions">Carzen</a>
 - 🌱 &nbsp; learning more about **docker-microservices-devops-typescript-springboot**.
 
