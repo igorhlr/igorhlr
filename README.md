@@ -12,6 +12,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs)
 ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -21,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![AngularJS](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original-wordmark.svg)
+
 
 **Version Coontrol**
 
