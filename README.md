@@ -4,7 +4,7 @@
 
 <h3> :woman: &nbsp;About me... </h3>
 
-- 💼 &nbsp; **Software Engineer** at <a href="https://br.linkedin.com/company/union-solutions">Union Solutions</a>
+- 💼 &nbsp; **Software Developer** at <a href="https://br.linkedin.com/company/union-solutions">Union Solutions</a>
 
 <h3> :rocket: &nbsp;My skills </h3>
 
@@ -54,6 +54,17 @@
 
 <h3> :earth_americas: &nbsp;  </h3>
 
+  .-'---`-.
+,'          `.
+|             \
+|              \
+\           _  \
+,\  _    ,'-,/-)\
+( * \ \,' ,' ,'-)
+`._,)     -',-')
+   \/         ''/
+    )        / /
+   /       ,'-'
 
 
 
