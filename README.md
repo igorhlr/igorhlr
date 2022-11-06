@@ -21,7 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
+![AngularJS](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original-wordmark.svg)
 
 **Version Coontrol**
 
