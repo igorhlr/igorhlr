@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
-![MongoDB](https://img.shields.io/badge/-PostgresSql-333333?style=flat&logo=postgressql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
