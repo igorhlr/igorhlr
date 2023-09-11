@@ -2,7 +2,7 @@
 
 
 
-<h3> :woman: &nbsp;About me... </h3>
+<h3> &nbsp;About me... </h3>
 
 - 💼 &nbsp; **Software Developer**
 
