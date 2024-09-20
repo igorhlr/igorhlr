@@ -1,59 +1,82 @@
-<p align="left"> <a href="https://discord.com/users/IgorR#8220" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/igorrozalem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/igor-rozalem-a67560209/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-
-<h3> &nbsp;About me... </h3>
-
-- 💼 &nbsp; **Software Developer**
-
-<h3> :rocket: &nbsp;My skills </h3>
-
-**Languages and Data**
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs)
-![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-
-**Version Coontrol**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-
-
-**Development Tools**
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/xyz/banner-java.jpg" alt="Java Developer Banner" width="800"/>
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://discord.com/users/IgorR#8220" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/igorrozalem" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/igor-rozalem-a67560209/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
 
-<br/>
+---
 
-<h3> :earth_americas: &nbsp;  </h3>
+## 👨‍💻 About Me
 
+- 💼 **Software Developer** specializing in backend development with Java.
+- 🌐 Passionate about building scalable systems, optimizing performance, and clean code architecture.
 
+---
 
+## 🚀 My Skills
+
+### **Programming Languages**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+### **Frameworks and Tools**
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure DevOps" alt="Azure DevOps" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"/>
+</div>
+
+### **Technologies and Stacks**
+
+- ![JDBC](https://img.shields.io/badge/-JDBC-333333?style=flat&logo=java&logoColor=007396)
+- ![EJB](https://img.shields.io/badge/-EJB-333333?style=flat&logo=java&logoColor=007396)
+- ![JMS](https://img.shields.io/badge/-JMS-333333?style=flat&logo=java&logoColor=007396)
+- ![Servlets](https://img.shields.io/badge/-Servlets-333333?style=flat&logo=java&logoColor=007396)
+- ![Shell Script](https://img.shields.io/badge/-Shell%20Script-333333?style=flat&logo=gnu-bash&logoColor=4EAA25)
+- ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions&logoColor=2088FF)
+- ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azure-devops&logoColor=0078D7)
+
+### **Database Management**
+
+![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+### **Development Environment**
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/igor-rozalem-a67560209/) or join me on [Discord](https://discord.com/users/IgorR#8220).
+
+---
+
+> 🚀 **Let's build something amazing with Java!**
 
