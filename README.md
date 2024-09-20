@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/xyz/banner-java.jpg" alt="Java Developer Banner" width="800"/>
+  <img src="[https://user-images.githubusercontent.com/xyz/banner-java.jpg](https://www.google.com/imgres?q=java%20developer%20banner&imgurl=https%3A%2F%2Fblog.talent500.co%2Fwp-content%2Fuploads%2F2022%2F05%2FJavaToolKit_Banner-1200x500.png&imgrefurl=https%3A%2F%2Ftalent500.co%2Fblog%2Fjava-developer-toolkit-important-skills-learning-resources-interview-prep-more%2F&docid=MQ-9qVmi1NsA3M&tbnid=29XHBOR6yhQzvM&vet=12ahUKEwiQlK-Hs9KIAxWtqJUCHWzPIW4QM3oECE0QAA..i&w=1200&h=500&hcb=2&ved=2ahUKEwiQlK-Hs9KIAxWtqJUCHWzPIW4QM3oECE0QAA)" alt="Java Developer Banner" width="800"/>
 </div>
 
 <p align="center">
