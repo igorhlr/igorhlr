@@ -10,14 +10,13 @@
   </a>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
 - 💼 **Software Developer** specializing in backend development with Java.
 - 🌐 Passionate about building scalable systems, optimizing performance, and clean code architecture.
 
----
+
 
 ## 🚀 My Skills
 
