@@ -59,20 +59,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-### **Development Environment**
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>
-</div>
-
----
 
 ## 🌐 Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/igor-rozalem-a67560209/) or join me on [Discord](https://discord.com/users/IgorR#8220).
 
----
+
 
 > 🚀 **Let's build something amazing with Java!**
 
