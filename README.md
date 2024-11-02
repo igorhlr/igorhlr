@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Software Developer** specializing in backend development with Java.
+- 💼 **Software Developer** specializing in systems integration and backend development.
 - 🌐 Passionate about building scalable systems, optimizing performance, and clean code architecture.
 
 
