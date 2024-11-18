@@ -62,8 +62,3 @@
 ## 🌐 Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/igor-rozalem-a67560209/) or join me on [Discord](https://discord.com/users/IgorR#8220).
-
-
-
-> 🚀 **Let's build something amazing with Java!**
-
