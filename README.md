@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://discord.com/users/IgorR#8220" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a>
   <a href="http://www.instagram.com/igorrozalem" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
