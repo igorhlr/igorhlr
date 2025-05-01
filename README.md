@@ -18,18 +18,6 @@
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/igor-rozalem-a67560209/) , 
 [HuggingFace](https://huggingface.co/igorhlr) or [X](https://x.com/igorrozalem)
 
-
-## 🚀 My Skills
-
-### **Programming Languages**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
 ### **Frameworks and Tools**
 
 <div align="center">
