@@ -13,12 +13,14 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Software Developer** specializing in systems integration and backend development.
+- 💼 **Software Engineer** specializing in systems integration and backend development.
 - 🌐 Passionate about building scalable systems, optimizing performance, and clean code architecture.
 
 ## 🌐 Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/igor-rozalem-a67560209/) or join me on [Discord](https://discord.com/users/IgorR#8220).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/igor-rozalem-a67560209/)
+[huggingface]https://huggingface.co/igorhlr
+
 
 ## 🚀 My Skills
 
