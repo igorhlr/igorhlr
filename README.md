@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="http://www.instagram.com/igorrozalem" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-</p>
-
-
 ## 👨‍💻 About Me
 
 - 💼 **Software Engineer** specializing in systems integration and backend development.
