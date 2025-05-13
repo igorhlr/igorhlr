@@ -13,7 +13,7 @@
 ## 🌐 Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/igor-rozalem-a67560209/) , 
-[HuggingFace](https://huggingface.co/igorhlr) or [X](https://x.com/igorrozalem)
+[HuggingFace](https://huggingface.co/igorhlr), [X](https://x.com/igorrozalem) or [Insta](https://www.instagram.com/igorrozalem)
 
 ### **Frameworks and Tools**
 
