@@ -29,7 +29,7 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" />
+<!--   <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" /> -->
 </div>
 
 
