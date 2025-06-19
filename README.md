@@ -36,7 +36,7 @@
 ## 🎮 Interactive Experience
 
 <details>
-<summary><b>👆 Click here to view my Java Skills Tree</b></summary>
+<summary><b>☕️ Click here to view my Java Skills Tree</b></summary>
 
 ```
 Java Skills Tree 🌳
@@ -73,7 +73,7 @@ Java Skills Tree 🌳
 </details>
 
 <details>
-<summary><b>👆 Click here to explore my project directory</b></summary>
+<summary><b>📂 Click here to explore my project directory</b></summary>
 
 ```bash
 $ ls -la ~/projects/
