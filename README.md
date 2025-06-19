@@ -152,7 +152,7 @@ drwxr-xr-x  JotDown/            # MCP Server in Rust for Notion & mdBooks
   <a href="https://twitter.com/igorrozalem">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
   </a>
-  <a href="https://huggingface.co">
+  <a href="https://huggingface.co/igorhlr">
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" height="35"/>
   </a>
   <a href="mailto:igorhlr3@hotmail.com">
