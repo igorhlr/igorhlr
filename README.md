@@ -18,6 +18,37 @@
 
 🎓 **Graduate** from Federal Technological University of Paraná
 
+<details>
+<summary><b>🚀 Click here to explore my AI-powered solutions</b></summary>
+
+<div align="center">
+
+### 🤖 Notion AI Assistant
+*Transforming productivity with intelligent automation*
+
+<table>
+<tr>
+<td align="center">
+<strong>🌐 Live Platform</strong><br>
+<a href="https://notionassistant.llmway.com.br">
+<img src="https://img.shields.io/badge/Notion%20AI-Live%20Demo-FF5722?style=for-the-badge&logo=notion&logoColor=white" height="35"/>
+</a>
+</td>
+<td align="center">
+<strong>📚 Documentation</strong><br>
+<a href="https://docs.notionassistant.llmway.com.br">
+<img src="https://img.shields.io/badge/API%20Docs-Ready-4CAF50?style=for-the-badge&logo=gitbook&logoColor=white" height="35"/>
+</a>
+</td>
+</tr>
+</table>
+
+*Built with cutting-edge AI to revolutionize how you interact with Notion workspaces*
+
+</div>
+
+</details>
+
 <br clear="right"/>
 
 ## 🔨 Languages and Tools
@@ -81,37 +112,6 @@ $ ls -la ~/projects/
 drwxr-xr-x  NotionAIAssistant/  # AI-powered Notion assistant
 drwxr-xr-x  JotDown/            # MCP Server in Rust for Notion & mdBooks
 ```
-
-</details>
-
-<details>
-<summary><b>🚀 Click here to explore my AI-powered solutions</b></summary>
-
-<div align="center">
-
-### 🤖 Notion AI Assistant
-*Transforming productivity with intelligent automation*
-
-<table>
-<tr>
-<td align="center">
-<strong>🌐 Live Platform</strong><br>
-<a href="https://notionassistant.llmway.com.br">
-<img src="https://img.shields.io/badge/Notion%20AI-Live%20Demo-FF5722?style=for-the-badge&logo=notion&logoColor=white" height="35"/>
-</a>
-</td>
-<td align="center">
-<strong>📚 Documentation</strong><br>
-<a href="https://docs.notionassistant.llmway.com.br">
-<img src="https://img.shields.io/badge/API%20Docs-Ready-4CAF50?style=for-the-badge&logo=gitbook&logoColor=white" height="35"/>
-</a>
-</td>
-</tr>
-</table>
-
-*Built with cutting-edge AI to revolutionize how you interact with Notion workspaces*
-
-</div>
 
 </details>
 
