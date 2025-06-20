@@ -124,18 +124,6 @@ drwxr-xr-x  JotDown/            # MCP Server in Rust for Notion & mdBooks
 
 </details> -->
 
-
-## 📊 Performance Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorhlr&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorhlr&theme=synthwave&hide_border=true" width="400">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igorhlr&theme=nord&column=7&no-frame=true" width="800">
-</div>
-
 ## 💡 Philosophy & Approach
 
 > *"Technology is just a means to execute our ideas. My greatest satisfaction comes when I integrate software with a transformative idea, more than when I integrate one software with another. It is in the materialization of creative concepts through quality code and well-designed infrastructure that I find my true professional motivation."*
@@ -161,6 +149,17 @@ drwxr-xr-x  JotDown/            # MCP Server in Rust for Notion & mdBooks
 </div>
 
 ---
+
+## 📊 Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=igorhlr&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorhlr&theme=synthwave&hide_border=true" width="400">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=igorhlr&theme=nord&column=7&no-frame=true" width="800">
+</div>
 
 <div align="center">
   <h3>☕ Keep coding and stay caffeinated! ☕</h3>
