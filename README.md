@@ -148,7 +148,11 @@ drwxr-xr-x  JotDown/            # MCP Server in Rust for Notion & mdBooks
   </a>
 </div>
 
----
+<div align="center">
+  <h3>☕ Keep coding and stay caffeinated! ☕</h3>
+  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
 
 ## 📊 Performance Metrics
 
@@ -161,8 +165,4 @@ drwxr-xr-x  JotDown/            # MCP Server in Rust for Notion & mdBooks
   <img src="https://github-profile-trophy.vercel.app/?username=igorhlr&theme=nord&column=7&no-frame=true" width="800">
 </div>
 
-<div align="center">
-  <h3>☕ Keep coding and stay caffeinated! ☕</h3>
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+
