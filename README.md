@@ -158,7 +158,7 @@ drwxr-xr-x  JotDown/            # MCP Server in Rust for Notion & mdBooks
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorhlr&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorhlr&theme=synthwave&hide_border=true" width="400">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorhlr&theme=synthwave&hide_border=true" width="400"> -->
 </div>
 
 <div align="center">
