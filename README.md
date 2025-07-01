@@ -112,6 +112,8 @@ drwxr-xr-x  JotDown/            # MCP Server in Rust for Notion & mdBooks
 
 </details> -->
 
+<br clear="right"/>
+
 ## 📡 Connect With Me
 
 <div align="center">
