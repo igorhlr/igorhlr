@@ -125,10 +125,6 @@ drwxr-xr-x  JotDown/            # MCP Server in Rust for Notion & mdBooks
 
 </details> -->
 
-## 💡 Philosophy & Approach
-
-> *"Technology is just a means to execute our ideas. My greatest satisfaction comes when I integrate software with a transformative idea, more than when I integrate one software with another. It is in the materialization of creative concepts through quality code and well-designed infrastructure that I find my true professional motivation."*
-
 ## 📡 Connect With Me
 
 <div align="center">
